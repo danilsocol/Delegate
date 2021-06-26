@@ -1,0 +1,16 @@
+C:\Приложения\Проекты\Делегаты\Делегаты\bin\Debug\net5.0\Делегаты.exe
+C:\Приложения\Проекты\Делегаты\Делегаты\bin\Debug\net5.0\Делегаты.deps.json
+C:\Приложения\Проекты\Делегаты\Делегаты\bin\Debug\net5.0\Делегаты.runtimeconfig.json
+C:\Приложения\Проекты\Делегаты\Делегаты\bin\Debug\net5.0\Делегаты.runtimeconfig.dev.json
+C:\Приложения\Проекты\Делегаты\Делегаты\bin\Debug\net5.0\Делегаты.dll
+C:\Приложения\Проекты\Делегаты\Делегаты\bin\Debug\net5.0\ref\Делегаты.dll
+C:\Приложения\Проекты\Делегаты\Делегаты\bin\Debug\net5.0\Делегаты.pdb
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\Делегаты.csproj.AssemblyReference.cache
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\Делегаты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\Делегаты.AssemblyInfoInputs.cache
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\Делегаты.AssemblyInfo.cs
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\Делегаты.csproj.CoreCompileInputs.cache
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\Делегаты.dll
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\ref\Делегаты.dll
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\Делегаты.pdb
+C:\Приложения\Проекты\Делегаты\Делегаты\obj\Debug\net5.0\Делегаты.genruntimeconfig.cache
